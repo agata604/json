@@ -1,0 +1,35 @@
+{
+  "Jeans": [
+    {
+      "col-size": "3",
+      "entry1": "Jeans for Men",
+      "entry2": [
+        "Malone | skinny",
+        "Luke | slim tapered",
+        "Rider | slim",
+        "Daren | regular",
+        "Austin | regular tapered",
+        "Brooklyn | straight"
+      ]
+    },
+    {
+      "col-size": "3",
+      "entry1": "Jeans for Women",
+      "entry2": [
+        "Ivy | super skinny",
+        "Scarlett | skinny regular",
+        "Scarlett | skinny high",
+        "Breese | flare",
+        "Elly | slim",
+        "Carol | straight",
+        "Marion | regular",
+        "Mom | relaxed",
+        "Body Optix® | premium jeans"
+      ]
+    },
+    {
+      "col-size": "6",
+      "entry1": "<img src='https://www.lee.pl/media/wysiwyg/Denim_wash/Lee_PL_LDL_FO_Large_HD_514x275.jpg'>"
+    }
+  ]
+}
